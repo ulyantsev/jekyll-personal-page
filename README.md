@@ -14,4 +14,3 @@ At least I've tried
 * Find a place for grants
 * Find a place for conferences (only in CV?)
 * Find a place for programms certificates (only in Russian CV?)
-* Full bio page (from https://en.itmo.ru/en/viewperson/1207/Vladimir_Ulyantsev.htm)
