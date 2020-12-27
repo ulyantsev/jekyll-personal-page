@@ -20,7 +20,8 @@ Vladimir Ulyantsev started his career as a senior laboratory assistant in 2008, 
 In the five years that followed, Vladimir Ulyantsev actively participated in the contests’ organization. 
 He also contributed to the organization of the Summer Informatics School – one time as a PE instructor and three times as a teacher. 
 
-In 2010, he began participating in scientific activities under the supervision of Fedor Tsarev and Anatoly Shalyto, 
+In 2010, he began participating in scientific activities under the supervision of Fedor Tsarev and 
+[Anatoly Shalyto](https://en.wikipedia.org/wiki/Anatoly_Shalyto), 
 as well as in applying for and conducting work as part of various grants of the Russian Foundation for Basic Research 
 and other agencies on the topic of automated synthesis of finite-state machines. 
 
@@ -42,7 +43,7 @@ of [Vladimir Parfenov](https://en.itmo.ru/en/viewperson/68/Vladimir_Parfenov.htm
 Together with [Daniil Chivilikhin](http://ctlab.itmo.ru/~chivdan/), starting from 2014 Vladimir Ulyantsev has been heading the discrete optimization research group.
 
 In 2015, Vladimir defended his [PhD thesis]({{ site.baseurl }}/projects/phd) titled “Finite-state machine synthesis using SAT and CSP solvers”, 
-supervised by [Anatoly Shalyto](https://en.wikipedia.org/wiki/Anatoly_Shalyto). Since 2016, he has been working as an associate professor at the Information Technologies and Programming Faculty. 
+supervised by Anatoly Shalyto. Since 2016, he has been working as an associate professor at the Information Technologies and Programming Faculty. 
 
 From May 2014, Vladimir Ulyantsev has been heading projects supported by various Russian scientific foundations: 
 Russian Foundation for Basic Research [project No. 14-07-31337 (2014-2015)](https://www.rfbr.ru/rffi/portal/project_search/o_1911929) (in Russian), 
@@ -59,7 +60,7 @@ Since 2020, Vladimir has been holding the position of the deputy dean for scienc
 In recent years, Vladimir has been taking great pleasure in delivering scientific and popular science lectures at schools and on various open stages, 
 including the Presidential Physics and Mathematics Lyceum No. 239, Sirius education center, New Holland’s Open Lecture Hall, Science Fest, and others. 
 He has also been contributing to the maintenance of the laboratory’s accounts on 
-[VK](https://vk.com/itmo.ctlab), [Instagram](https://www.instagram.com/itmo.ctlab/) and [Facebook](https://www.facebook.com/itmo.ctlab/) (in Russian). 
+[VK](https://vk.com/itmo.ctlab), [Instagram](https://www.instagram.com/itmo.ctlab/) and [Facebook](https://www.facebook.com/itmo.ctlab/) (all in Russian). 
 
 Vladimir Ulyantsev is the co-author of over 35 international publications 
 ([Scholar](https://scholar.google.ru/citations?user=uzE__rYAAAAJ), 

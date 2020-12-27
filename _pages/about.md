@@ -29,6 +29,7 @@ Completed Bachelor’s studies in ITMO University’s Computer Technologies Depa
 Defended my [PhD thesis]({{ site.baseurl }}/projects/phd) on “Finite-state machine synthesis using SAT and CSP solvers” in 2015, 
 supervised by [Anatoly Shalyto](https://en.wikipedia.org/wiki/Anatoly_Shalyto).
 
-More detailed bio [provided here]({{ site.baseurl }}/bio).
+More detailed bio [provided here]({{ site.baseurl }}/bio). 
+Расширенная биография на русском языке [доступна по ссылке]({{ site.baseurl }}/bio-rus).
 
 Professional interests: Research Administration, Bioinformatics, Combinatorial Optimization, Evolutionary Algorithms, Generative Design, SAT, Machine Learning.
