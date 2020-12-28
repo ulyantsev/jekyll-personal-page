@@ -23,6 +23,19 @@ description: Представлена также на <a href = "https://itmo.ru
 В соавторстве подготовил 25 статей с разборами школьных задач для журнала [«Компьютерные инструменты в школе»](http://www.kio.spb.ru/journal/). 
 Один раз был физруком и три раза преподавал на сменах [Летней Компьютерной Школы](https://lksh.ru/).
 
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2007-ulyantsev.jpg' | relative_url }}" alt="" title="2007 год, Большие скалы"/>
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2013-year2007.jpg' | relative_url }}" alt="" title="2013 год, выпуск из магистратуры"/>
+    </div>
+</div>
+<div class="caption">
+    2007 год, на Больших скалах перед поступлением в бакалавриат. 2013 год, с дорогими одногруппниками после выпуска из магистратуры 
+</div>
+
 В 2010 году начал привлекаться к научной деятельности под руководством Ф.Н. Царева и 
 [А.А. Шалыто](https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BB%D1%8B%D1%82%D0%BE,_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B8%D1%87), 
 к подаче заявок и выполнению грантов РФФИ и ФЦП «Научные и научно-педагогические кадры инновационной России» 
