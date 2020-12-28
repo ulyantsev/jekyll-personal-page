@@ -1,12 +1,30 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: teaching 
+description: ALL IN RUSSIAN. Not teaching regular courses, but supervising a lot of students.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. 
-You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Supervised students
 
-Organize your courses by years, topics, or universities, however you like!
+### 2020
+
+[PhD] __Закирзянов Илья Тимурович__.
+Методы генерации детерминированных конечных автоматов с использованием 
+сокращения пространства поиска при решении задачи выполнимости.
+
+[MS] __Сушенцев Игорь Михайлович__. 
+Поиск оптимального профиля многослойной диэлектрической антенны с использованием эволюционных алгоритмов.
+Выпускная квалификационная работа магистра. 2020.
+[Руководитель: Ульянцев В.И., научный консультант: Ладутенко К.]
+
+[MS] __Павленко Артем Леонидович__.
+Разработка эволюционных методов декомпозиции задач обращения криптографических 
+функций с использованием статистических тестов и инкрементальных SAT-решателей.
+Выпускная квалификационная работа магистра. 2020.
+[Руководитель: Ульянцев В.И., научный консультант: Семенов А.А.]
+[[thesis]]({{ site.baseurl }}/assets/thesis/2020-Pavlenko-thesis.pdf)
+[[presentation]]({{ site.baseurl }}/assets/thesis/2020-Pavlenko-presentation.pdf)
+
+
