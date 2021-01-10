@@ -36,9 +36,14 @@ years: [2020, 2019, 2018, 2017, 2016, 2015]
       
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
+  
   {% for entry in site.data.students %}{% if entry[1].year == y %}
+    <p>
     {{ entry[1].student }}
+
+    </p>
   {% endif %}{% endfor %}
+  
 {% endfor %}
 
   {% for entry in site.data.students %}

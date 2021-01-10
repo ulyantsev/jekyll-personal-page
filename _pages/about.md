@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-Detailed bio in english [provided here]({{ site.baseurl }}/bio).  
+Detailed bio in english [provided here]({{ site.baseurl }}/bio).\
 Расширенная биография на русском языке [доступна по ссылке]({{ site.baseurl }}/bio-rus).
 
 Born in Leningrad, USSR in 1990.
