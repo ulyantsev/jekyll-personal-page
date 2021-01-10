@@ -8,45 +8,24 @@ years: [2020, 2019, 2018, 2017, 2016, 2015]
 ---
 
 ## Supervised students
-
-### 2020
-
-[PhD] __Закирзянов Илья Тимурович__.
-Методы генерации детерминированных конечных автоматов с использованием сокращения пространства поиска при решении задачи выполнимости.
-
-[MS] __Сушенцев Игорь Михайлович__. 
-Поиск оптимального профиля многослойной диэлектрической антенны с использованием эволюционных алгоритмов.
-Выпускная квалификационная работа магистра. 2020.
-[Руководитель: Ульянцев В.И., научный консультант: Ладутенко К.С.]
-
-[MS] __Павленко Артем Леонидович__.
-Разработка эволюционных методов декомпозиции задач обращения криптографических функций с использованием статистических тестов и инкрементальных SAT-решателей.
-Выпускная квалификационная работа магистра. 2020.
-[Руководитель: Ульянцев В.И., научный консультант: Семенов А.А.]
-[[thesis]]({{ site.baseurl }}/assets/thesis/2020-Pavlenko-thesis.pdf)
-[[presentation]]({{ site.baseurl }}/assets/thesis/2020-Pavlenko-presentation.pdf)
-
-[BS] __Глухов Евгений Дмитриевич__.
-Разработка методов анализа записей матчей в многопользовательских играх от первого лица.
-Выпускная квалификационная работа бакалавра. 2020.
-[Руководитель: Ульянцев В.И.]
-[[thesis]]({{ site.baseurl }}/assets/thesis/2020-Glukhov-thesis.pdf)
-[[presentation]]({{ site.baseurl }}/assets/thesis/2020-Glukhov-presentation.pdf)
-
       
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  
+<p>  
   {% for entry in site.data.students %}{% if entry[1].year == y %}
-    <p>
-    {{ entry[1].student }}
+    {% capture thesis_path %}/assets/thesis/{{ entry[0] }}-thesis.pdf{% endcapture %}
+    {% capture pres_path %}/assets/thesis/{{ entry[0] }}-presentation.pdf{% endcapture %}
+    {% assign thesis = site.static_files | where: "path", thesis_path | first %}
+    {% assign pres = site.static_files | where: "path", pres_path | first %}
 
-    </p>
+[<b>{{ entry[1].degree }}</b>] <b>{{ entry[1].student }}</b>. {{ entry[1].title }}. {{ entry[1].type }}. {{ entry[1].year }}
+[{{ entry[1].supervisors }}]
+{% if thesis %}<a href="{{ site.baseurl }}{{ thesis_path }}">[thesis]</a>{% endif %}
+{% if pres %}<a href="{{ site.baseurl }}{{ pres_path }}">[presentation]</a>{% endif %}
+
+  {% if true %}{% endif %}
+<br/>
   {% endif %}{% endfor %}
-  
+</p>  
 {% endfor %}
 
-  {% for entry in site.data.students %}
-    {{ entry }}
-    {{ entry[0] }} , {{ entry[1].year }}
-  {% endfor %}
