@@ -1,6 +1,11 @@
 # Vladimir Ulyantsev' personal webpage.
 
-At least I've tried
+At least I've tried.
+
+Decided to use ai-folio theme. There are other cool example of usage I can mention:
+[Maruan Al-Shedivat](https://www.cs.cmu.edu/~mshediva/),
+[Andreea Bobu](https://andreea7b.github.io/),
+[Alexey Ignatiev](https://alexeyignatiev.github.io/).
 
 # TODO
 
