@@ -1,0 +1,19 @@
+{% assign data=site.data.grants[include.tag] %}
+<p>
+  <b>Название</b>: {{ data.topic }}
+  <br><b>Срок выполнения</b>: {{ data.period }}
+  <br><b>Команда</b>: {{ data.team }}
+  <br><b>Грантодатель</b>: {{ data.foundation }}
+  <br><b>Конкурс</b>: {{ data.contest }}
+  <br><b>Номер соглашения</b>: {{ data.number }}
+  {% if data.keywords %}
+  <br><b>Ключевые слова</b>: {{ data.keywords }}
+  {% endif %}
+  {% if data.comment %}
+  <br><b>Дополнительная информация</b>: {{ data.comment }}
+  {% endif %}
+  {% if data.link %}
+  <br><b>Страница гранта</b>: <a href = "{{ data.link }}">{{ data.link }}</a>
+  {% endif %}
+
+</p>

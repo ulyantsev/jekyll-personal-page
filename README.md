@@ -11,8 +11,9 @@ Decided to use ai-folio theme. There are other cool example of usage I can menti
 
 * Fill projects plane (or disable it)
 * Find a place for grants
-* Find a place for conferences (only in CV?)
+* Find a place for conferences (or only in CV?)
 * Find a place for programms certificates (only in Russian CV?)
+* Find a place for papers in Russian
 * Educational papers
 
 # More general plans
