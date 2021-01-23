@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /grants/
-title: grants 
-description: Was working only with Russian grant agencies. 
+title: Гранты 
+#description: Was working only with Russian grant agencies. 
 ---
 
 ### Руководитель

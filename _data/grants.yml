@@ -1,4 +1,7 @@
-﻿
+﻿# does it better to include annotations?
+
+# Supervisor
+
 2018-RSCF-crypto:
     role: Руководитель
     topic: >-
@@ -23,22 +26,77 @@
     link: https://rscf.ru/contests/search-projects/18-71-00150/
     link_en: https://rscf.ru/en/contests/search-projects/18-71-00150/
 
-2018-RFBR-LTL:
+2018-RFBR-A:
     role: Руководитель
     topic: >-
       Разработка методов машинного обучения для синтеза автоматных моделей систем управления 
       с учетом темпоральных свойств и временных отсечек на основе пропозиционального кодирования
+    topic_en: >-
+      Machine learning methods for synthesizing finite-state models of control systems 
+      with regard of temporal properties and timestamps based on propositional encoding
     period: 01.2018 -- 12.2020
     foundation: Российский Фонд Фундаментальных Исследований (РФФИ)
-    contest: (а) конкурс проектов фундаментальных научных исследований
+    contest: А -- конкурс проектов фундаментальных научных исследований
     number: 18-07-01285
     per_year: 700000 ₽
     team: Ульянцев В.И. (руководитель), Чивилихин Д.С., Бужинский И.П., Закирзянов И.Т., Овсянникова П.А.
     keywords: >-
       машинное обучение, задача выполнимости, задача удовлетворения ограничений, 
       темпоральная логика, временные автоматы, пропозициональное кодирование
+    keywords_en: >-
+      machine learning, inductive synthesis, Boolean satisfiability problem, constraint satisfaction problem, 
+      temporal logic, timed automata, propositional encoding
     link: https://www.rfbr.ru/rffi/ru/project_search/o_2071392
 
+2014-RFBR-mol-a:
+    role: Руководитель
+    topic: >- 
+      Разработка методов автоматизированного построения надежного программного обеспечения 
+      на основе автоматного подхода по обучающим примерам и темпоральным свойствам
+    topic_en: >-
+      Automated reliable software synthesis from test examples 
+      and temporal constraints using automata-based programming
+    period: 01.2014 -- 12.2015
+    foundation: Российский Фонд Фундаментальных Исследований (РФФИ)
+    contest: мол_а -- Конкурс инициативных научных проектов, выполняемых молодыми учеными (Мой первый грант) 2014
+    number: 14-07-31337
+    per_year: 400000 ₽
+    team: Ульянцев В.И. (руководитель), Чивилихин Д.С.
+    keywords: >-
+      надежное программное обеспечение, управляющие конечные автоматы, темпоральные свойства, 
+      муравьиные алгоритмы, задача SAT, задача QSAT, автоматное программирование, 
+      верификация, метод Model Checking
+    link: https://www.rfbr.ru/rffi/portal/project_search/o_1911929
+
+# Partisipant
+
+2019-RFBR-Sirius:
+    role: Исполнитель
+    topic: >- 
+      Разработка методов синтеза конечно-автоматных алгоритмов управления для 
+      программируемых логических контроллеров в распределенных киберфизических системах
+    topic_en: >-
+      Synthesis of finite-state machine based control algorithms for programmable logic 
+      controllers in distributed cyber-physical systems
+    period: 10.2019 -- 09.2021
+    foundation: Российский Фонд Фундаментальных Исследований (РФФИ)
+    contest: >- 
+      Научное наставничество -- Конкурс на лучшие проекты фундаментальных научных исследований, 
+      выполняемые молодыми учеными под руководством ведущего ученого – наставника, 
+      проводимый совместно РФФИ и фондом «Талант и Успех»
+    number: 19-37-51066
+    per_year: 4500000 ₽
+    keywords: >-
+      киберфизическая система, система управления, программируемый логический контроллер, 
+      конечный автомат, синтез конечных автоматов, верификация, метод проверки моделей, 
+      задача выполнимости булевой формулы, распределенное управление
+    keywords_en: >-
+      cyber-physical system, control system, programmable logic controller, finite-state machine, 
+      synthesis of finite-state machines, verification, model checking, 
+      Boolean satisfiability problem, distributed control
+    team: >- 
+      Вяткин В.В. (руководитель), Чивилихин Д.С., Ульянцев В.И., 
+      Закирзянов И.Т., Овсянникова П.А., Чухарев К.И., Павленко А.Л.
 
 2016-FCP-finland:
     role: Ответственный исполнитель
@@ -63,5 +121,23 @@
     comment: Вяткин Валерий -- научный руководитель работ со стороны иностранного партнера (Aalto University)
     link: http://fcpir.ru/participation_in_program/contracts/14.587.21.0032/
 
+2014-RFBR-Shalyto:
+    role: Исполнитель
+    topic: Разработка муравьиных алгоритмов для построения управляющих конечных автоматов
+    topic_en: Developing ant colony optimization algorithms for learning extended finite-state machines
+    period: 01.2014 -- 12.2016
+    number: 14-01-00551
+    per_year: 400000 ₽
+    foundation: Российский Фонд Фундаментальных Исследований (РФФИ)
+    contest: А -- Конкурс инициативных научно-исследовательских проектов 2014 года
+
+    team: >-
+      Шалыто А.А. (Руководитель), Чивилихин Д.С., Ульянцев В.И., Бужинский И.П.,
+      Фильченков А.А., Буздалов М.В., Буздалова А.С., 
+      Казаков С.В., Сергушичев А.А., Закирзянов И.Т.
+    keywords: >-
+      муравьиные алгоритмы, управляющие конечные автоматы, роевой интеллект, алгоритмы роевого интеллекта, 
+      автоматное программирование, управляющие системы, функция приспособленности
+    link: https://www.rfbr.ru/rffi/ru/project_search/o_1911469    
 
 
