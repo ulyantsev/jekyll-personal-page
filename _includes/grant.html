@@ -10,6 +10,9 @@
   <br><b>Грантодатель</b>: {{ data.foundation }}
   <br><b>Конкурс</b>: {{ data.contest }}
   <br><b>Номер соглашения</b>: {{ data.number }}
+  {% if data.per_year %}
+  <br><b>Годовой объем гранта</b>: {{ data.per_year }}
+  {% endif %}  
   {% if data.comment %}
   <br><b>Дополнительная информация</b>: {{ data.comment }}
   {% endif %}
