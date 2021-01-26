@@ -1,0 +1,134 @@
+# 2020
+
+# COVID year, no conf papers
+
+# 2019
+
+2019-METANANO:
+    conference: IV International Conference on Metamaterials and Nanophotonics
+    short: METANANO 2019
+    url: https://metanano.itmo.ru/2019/
+    place: St. Petersburg, Russia
+    dates: July 15–19  
+    type: regular talk
+    talk: Evolutionary and genetic algorithms for design of metadevices working on electric dipole resonance
+
+2019-GECCO:
+    conference: The Genetic and Evolutionary Computation Conference
+    short: GECCO 2019
+    url: https://gecco-2019.sigevo.org/index.html/HomePage
+    place: Prague, Czech Republic 
+    dates: July 13–17
+    type: regular talk    
+    talk: Fitness Comparison by Statistical Testing in Construction of SAT-Based Guess-and-Determine Cryptographic Attacks 
+
+2019-MIPRO:
+    conference: 42nd International Convention on Information and Communication Technology, Electronics and Microelectronics
+    short: MIPRO 2019
+    url: https://www.aconf.org/conf_166398.html
+    place: Opatija, Croatia
+    dates: May 20–24
+    type: regular talk    
+    talk: Parallel framework for evolutionary black-box optimization with application to algebraic cryptanalysis
+
+2019-EvoApps:
+    conference: 22nd International Conference on the Applications of Evolutionary Computation (part of the EvoStar 2019)
+    short: EvoApps 2019
+    url: https://www.evostar.org/2019/cfp_evoapps.php
+    place: Leipzig, Germany
+    dates: April 24–26
+    type: regular talk & poster
+    talk: Evolutionary Computation Techniques for Constructing SAT-based Attacks in Algebraic Cryptanalysis
+
+2019-LATA:
+    conference: 13th International Conference on Language and Automata Theory and Applications
+    short: LATA 2019
+    url: https://irdta.eu/LATA2019/
+    place: St. Petersburg, Russia
+    dates: March 26–29
+    type: regular talk    
+    talk: Efficient Symmetry Breaking for SAT-Based Minimum DFA Inference
+    
+# 2018
+
+2018-METANANO:
+    conference: International Conference on Metamaterials and Nanophotonics 
+    short: METANANO 2018
+    url: https://metanano.itmo.ru/2018/
+    place: Sochi, Russia
+    dates: September 17–21
+    type: invited talk
+    talk: Genetic Algorithms for Complex Structures Inference
+
+2018-ETFA:
+    conference: 23rd IEEE International Conference on Emerging Technologies and Factory Automation
+    short: ETFA 2018
+    url: https://etfa2018.com/
+    place: Torino, Italy
+    dates: September 4–7
+    type: regular talk    
+    talk: Counterexample-guided inference of controller logic from execution traces and temporal formulas
+
+2018-INDIN:
+    conference: 16th IEEE International Conference on Industrial Informatics
+    short: INDIN 2018
+    url: https://ieeexplore.ieee.org/document/8581566
+    place: Porto, Portugal
+    dates: July 18–20
+    type: regular talk    
+    talk: Active learning of formal plant models for cyber-physical systems
+
+2018-BIATA:
+    conference: Bioinformatics: from Algorithms to Applications
+    short: BiATA 2018
+    url: http://biata2018.spbu.ru/
+    place: St. Petersburg, Russia
+    dates: July 16–19
+    type: poster    
+    talk: Improving metagenomic assembly using Nanopore Read-Until technology
+
+
+2018-:
+    conference: 
+    short: 
+    url: 
+    place: 
+    dates: –
+    type: regular talk    
+    talk: 
+
+2018-:
+    conference: 
+    short: 
+    url: 
+    place: 
+    dates: –
+    type: regular talk    
+    talk: 
+
+
+# 2017
+
+
+
+# 2015
+
+2015-LATA:
+    conference: 9th International Conference on Language and Automata Theory and Applications
+    short: LATA 2015
+    url: https://irdta.eu/LATA2015/
+    place: Nice, France
+    dates: March 2–6
+    type: regular talk
+    talk: BFS-based Symmetry Breaking Predicates for DFA Identification
+
+2015-AlCoB:
+    conference: 2nd International Conference on Algorithms for Computational Biology
+    short: AlCoB 2015
+    url: https://irdta.eu/AlCoB2015/
+    place: Mexico City, Mexico
+    dates: August 4–5
+    type: regular talk
+    talk: Constructing Parsimonious Hybridization Networks from Multiple Phylogenetic Trees Using a SAT-Solver
+
+
