@@ -1,0 +1,20 @@
+{% assign data=site.data.conferences[include.tag] %}
+
+<p style="font-size:110%; margin-bottom:0; padding-bottom: 0">
+  {{ data.short }}
+</p>
+<p style="margin-top:0; margin-left:10px; padding: 0">
+  <a href = "{{ data.url }}">{{ data.conference }}</a> 
+  <br>{{ data.dates }}, {{ data.location }}
+
+  {% if data.talk %}
+    <br>{{ data.type }}: {{ data.talk }}
+  {% endif %}
+  
+  {% if data.talks %}
+    {% for entry in data.talks %}
+      <br>{{ entry.type }}: {{ entry.talk }}
+    {% endfor %}
+  {% endif %}
+
+</p>
