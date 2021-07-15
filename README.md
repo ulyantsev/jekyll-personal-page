@@ -7,16 +7,13 @@ Decided to use ai-folio theme. There are other cool example of usage I can menti
 [Andreea Bobu](https://andreea7b.github.io/),
 [Alexey Ignatiev](https://alexeyignatiev.github.io/).
 
-# Till first release
 
-* Fill projects plane (or disable it)
-* Find a place for grants
-* Find a place for conferences (or only in CV?)
-* Find a place for programms certificates (only in Russian CV?)
-* Find a place for papers in Russian
+# TODO
+
 * Educational papers
-
-# More general plans
+* Find a place for papers in Russian
+* Fill projects plane (now it is invisible)
+* Find a place for programms certificates (only in Russian CV?)
 
 * support both RU and EN -- in some future
 * Generate CV as well, good example located here https://otiliastr.github.io/cv/

@@ -22,9 +22,11 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-Detailed bio in english [provided here]({{ site.baseurl }}/bio).\
-Расширенная биография на русском языке [доступна по ссылке]({{ site.baseurl }}/bio-rus).
+На русском: [биография]({{ site.baseurl }}/bio-rus), 
+[гранты]({{ site.baseurl }}/grants),
+[студенты]({{ site.baseurl }}/teaching).
 
+Detailed bio in english [provided here]({{ site.baseurl }}/bio).\
 Born in Leningrad, USSR in 1990.
 In 2007 graduated from St. Petersburg’s Lyceum No. 239.
 Completed Bachelor’s studies in ITMO University’s Computer Technologies Department in 2011, and Master’s studies – in 2013. 

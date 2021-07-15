@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching 
 description: ALL IN RUSSIAN. Not delivering regular courses, but supervising a lot of students.
-nav: true
+# nav: true
 years: [2020, 2019, 2018, 2017, 2016, 2015]
 ---
 

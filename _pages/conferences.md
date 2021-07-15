@@ -1,8 +1,9 @@
 ---
 layout: page
 permalink: /conferences/
-title: Conferences 
+title: conferences 
 description: All the conferences where I've been or works with my co-authorship were presented. 
+nav: true
 ---
 
 
