@@ -41,8 +41,6 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-
-
 scholar_userid: uzE__rYAAAAJ 
 orcid_id: 0000-0003-0802-830X 
 publons_id: AAV-2126-2020 
@@ -59,7 +57,8 @@ medium_username:
 contact_note: >
   Better to use telegram or email to message
 
-google_analytics: G-5YY0JXZQW6 # out your google-analytics code
+# google_analytics not working, so I replaced it with yandex tag :(
+yandex_metrika: 83302045
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -90,7 +89,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 5
+news_limit: 10
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -153,7 +152,8 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:  true
+
+enable_yandex_metrika:    true # that was enable_google_analytics
 enable_mansory:           true
 enable_math:              true
 enable_tooltips:          false

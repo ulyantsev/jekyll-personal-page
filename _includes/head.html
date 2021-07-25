@@ -28,7 +28,7 @@
 <link rel="stylesheet" href="https://gitcdn.link/repo/jwarby/jekyll-pygments-themes/master/{{ site.highlight_theme }}.css" />
 
 <!-- Styles -->
-<link rel="shortcut icon" href="{{ '/assets/img/favicon.ico' | relative_url }}">
+<!-- link rel="shortcut icon" href="{{ '/assets/img/favicon.ico' | relative_url }}"-->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url }}">
@@ -38,19 +38,19 @@
   <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
 {% endif %}
 
-{% if site.enable_google_analytics %}
+{% if site.enable_yandex_metrika %}
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
 
-   ym(83302045, "init", {
+   ym({{ site.yandex_metrika }}, "init", {
         clickmap:true,
         trackLinks:true,
         accurateTrackBounce:true
    });
 </script>
-<noscript><div><img src="https://mc.yandex.ru/watch/83302045" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="https://mc.yandex.ru/watch/{{ site.yandex_metrika }}" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 {% endif %}
