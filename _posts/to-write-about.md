@@ -17,3 +17,9 @@ https://radiomayak.ru/persons/person/id/374563/
 
 https://doi.org/10.3389/fmicb.2021.653314
 Первый раз указан как ревьюер. 
+
+https://twitter.com/merenbey/status/1399917207543484421
+Изучить ответы и написать про это пост, сделать выводы
+- https://www.jonathanklassenlab.com/files/Klassen_Lab_Mentoring_Expectations_for_Graduate_Students_v1.01.pdf
+- https://merenlab.org/culture/
+- https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006914

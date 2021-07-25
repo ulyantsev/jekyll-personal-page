@@ -17,8 +17,8 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-url:  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
+url: https://ulyantsev.com # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
@@ -59,7 +59,7 @@ medium_username:
 contact_note: >
   Better to use telegram or email to message
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: G-5YY0JXZQW6 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -153,7 +153,7 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:  false
+enable_google_analytics:  true
 enable_mansory:           true
 enable_math:              true
 enable_tooltips:          false
