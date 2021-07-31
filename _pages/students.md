@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /students/
 title: teaching 
 description: ALL IN RUSSIAN. Not delivering regular courses, but supervising a lot of students.
 # nav: true

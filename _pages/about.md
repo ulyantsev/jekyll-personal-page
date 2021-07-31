@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Associated Professor & <a href="https://ctlab.ifmo.ru/en/">Computer Technologies Lab</a> head – <a href="https://en.itmo.ru/en/">ITMO University</a>, St. Petersburg, Russia
+description: Associate Professor & <a href="https://ctlab.ifmo.ru/en/">Computer Technologies Lab</a> head – <a href="https://en.itmo.ru/en/">ITMO University</a>, St. Petersburg, Russia
 
 profile:
   align: left
@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 
 На русском: [биография]({{ site.baseurl }}/bio-rus), 
 [гранты]({{ site.baseurl }}/grants),
-[студенты]({{ site.baseurl }}/teaching).
+[студенты]({{ site.baseurl }}/students).
 
 Born in Leningrad, USSR in 1990.\
 In 2007 graduated from St. Petersburg’s Lyceum No. 239.
