@@ -24,7 +24,5 @@ https://twitter.com/merenbey/status/1399917207543484421
 - https://merenlab.org/culture/
 - https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006914
 
-<iframe src="https://vk.com/video_ext.php?oid=-131616069&id=456239050&hash=d44d426ad398e65d&hd=2" width="853" height="480" frameborder="0" allowfullscreen></iframe>
-
 
 "Ясен владел напрасно презираемым многими важным искусством максимальной свободы в предложенных обстоятельствах."

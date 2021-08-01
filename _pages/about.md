@@ -22,10 +22,6 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-На русском: [биография]({{ site.baseurl }}/bio-rus), 
-[гранты]({{ site.baseurl }}/grants),
-[студенты]({{ site.baseurl }}/students).
-
 Born in Leningrad, USSR in 1990.\
 In 2007 graduated from St. Petersburg’s Lyceum No. 239.
 Completed Bachelor’s studies in ITMO University’s Computer Technologies Department in 2011, and Master’s studies – in 2013. 
@@ -34,3 +30,8 @@ supervised by [Anatoly Shalyto](https://en.wikipedia.org/wiki/Anatoly_Shalyto).\
 Detailed bio in english [provided here]({{ site.baseurl }}/bio).
 
 Professional interests: Research Administration, Bioinformatics, Combinatorial Optimization, Evolutionary Algorithms, Generative Design, SAT, Machine Learning.
+
+На русском: [биография]({{ site.baseurl }}/bio-rus), 
+[гранты]({{ site.baseurl }}/grants),
+[студенты]({{ site.baseurl }}/students),
+[лекции]({{ site.baseurl }}/talks).
