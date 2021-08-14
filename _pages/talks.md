@@ -11,6 +11,11 @@ width="560" height="315" frameborder="0" allowfullscreen>
 </iframe>
 2021-07-09. Лекция «Введение в теорию вычислительной сложности».
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YflXJqc4jy0" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+2021-04-09. Лекция «Генетические алгоритмы и примеры их применения» для участников Всероса по информатике.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o1w2SBPbZTM?start=14" 
 title="YouTube video player" frameborder="0" 
