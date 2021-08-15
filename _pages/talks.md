@@ -23,6 +23,10 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 </iframe>
 2020-04-28. Лекция «Генетические алгоритмы: эволюционный подход в искусственном интеллекте» в рамках Сириус.Дома.
 
+<iframe src="https://vk.com/video_ext.php?oid=-28625572&id=456239690&hash=3f9df2a17cf2d976&hd=2" 
+width="560" height="315" allow="autoplay; encrypted-media; fullscreen; picture-in-picture;" frameborder="0" allowfullscreen>
+</iframe>
+2019-08-27. Лекция «Биоинформатика: как геномные данные помогают изучать происхождение людей и механизмы развития заболеваний» в лектории Новой Голландии.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h6mYDjpZUt4" 
 title="YouTube video player" frameborder="0" 
