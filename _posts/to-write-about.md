@@ -24,7 +24,14 @@ https://twitter.com/merenbey/status/1399917207543484421
 - https://merenlab.org/culture/
 - https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006914
 
+https://merenlab.org/2020/07/27/history-of-metagenomics/
 
 "Ясен владел напрасно презираемым многими важным искусством максимальной свободы в предложенных обстоятельствах."
 
 https://habr.com/ru/company/spbifmo/blog/568338/
+
+http://www.medlinks.ru/article.php?sid=92191
+https://www.vidal.ru/novosti/molodye-rossijskie-uchenye-pobedili-v-mezhdunarodnom-konkurse-9481
+https://ekogradmoscow.ru/2012-11-25-08-46-00/2012-11-25-08-51-26/molodye-rossijskie-uchenye-pobedili-v-mezhdunarodnom-konkurse-po-sozdaniyu-tekhnologii-mashinnogo-obucheniya-dlya-diagnostiki-vospalitelnykh-zabolevanij-kishechnika
+https://futurerussia.gov.ru/nacionalnye-proekty/ucenye-iz-rf-pobedili-na-mezdunarodnom-konkurse-po-sozdaniu-tehnologii-masinnogo-obucenia1
+http://con-med.ru/news/molodye-rossiyskie-uchenye-pobedili-v-mezhdunarodnom-konkurse-po-sozdaniyu-tekhnologii-mashinnogo-ob/
