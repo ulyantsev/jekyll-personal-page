@@ -29,6 +29,7 @@ https://merenlab.org/2020/07/27/history-of-metagenomics/
 "Ясен владел напрасно презираемым многими важным искусством максимальной свободы в предложенных обстоятельствах."
 
 https://habr.com/ru/company/spbifmo/blog/568338/
+https://habr.com/ru/company/spbifmo/blog/578794/
 
 http://www.medlinks.ru/article.php?sid=92191
 https://www.vidal.ru/novosti/molodye-rossijskie-uchenye-pobedili-v-mezhdunarodnom-konkurse-9481
