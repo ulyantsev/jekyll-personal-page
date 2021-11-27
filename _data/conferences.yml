@@ -2,6 +2,15 @@
 
 # 2021
 
+2021-CP:
+    conference: Conference on Principles and Practice of Constraint Programming 2021
+    short: CP 2021
+    url: https://cp2021.a4cp.org/
+    location: online
+    dates: October 25 – October 29
+    type: regular talk
+    talk: Evaluating the Hardness of SAT Instances Using Evolutionary Optimization Algorithms
+
 2021-MCCMB:
     conference: Moscow Conference on Computational Molecular Biology 2021
     short: MCCMB 2021

@@ -36,3 +36,5 @@ https://www.vidal.ru/novosti/molodye-rossijskie-uchenye-pobedili-v-mezhdunarodno
 https://ekogradmoscow.ru/2012-11-25-08-46-00/2012-11-25-08-51-26/molodye-rossijskie-uchenye-pobedili-v-mezhdunarodnom-konkurse-po-sozdaniyu-tekhnologii-mashinnogo-obucheniya-dlya-diagnostiki-vospalitelnykh-zabolevanij-kishechnika
 https://futurerussia.gov.ru/nacionalnye-proekty/ucenye-iz-rf-pobedili-na-mezdunarodnom-konkurse-po-sozdaniu-tehnologii-masinnogo-obucenia1
 http://con-med.ru/news/molodye-rossiyskie-uchenye-pobedili-v-mezhdunarodnom-konkurse-po-sozdaniyu-tekhnologii-mashinnogo-ob/
+
+https://news.itmo.ru/ru/science/life_science/news/12214/
