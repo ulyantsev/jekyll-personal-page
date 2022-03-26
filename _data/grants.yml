@@ -47,7 +47,7 @@
       задача о булевой выполнимости (SAT), эволюционные алгоритмы, генетические алгоритмы, 
       SAT-решатель, SAT-декомпозиция
     link: https://rscf.ru/contests/search-projects/18-71-00150/
-    link_en: https://rscf.ru/en/contests/search-projects/18-71-00150/
+    link_en: https://rscf.ru/en/project/18-71-00150/
 
 2018-RFBR-A:
     role: Руководитель
@@ -138,7 +138,8 @@
     topic: >-
       Разработка методов, средств и технологий проектирования, верификации и 
       тестирования ответственных кибер-физических систем
-    topic_en:
+    topic_en: >-
+      Development of methods, tools and technologies for design, verification and testing of reliable cyber-physical systems
     period: 08.2016 -- 06.2019
     foundation: Министерство образования и науки Российской Федерации
     contest: >-
