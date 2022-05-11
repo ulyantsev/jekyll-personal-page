@@ -83,7 +83,7 @@ description: Представлена также на <a href = "https://itmo.ru
 в лектории на Новой Голландии, фестивале Science Fest, и других. 
 Поддерживает страницы лаборатории в социальных медиа: [ВК](https://vk.com/itmo.ctlab), [instagram](https://www.instagram.com/itmo.ctlab/), [facebook](https://www.facebook.com/itmo.ctlab/).
 
-Соавтор более 35 международных публикаций 
+Соавтор более 45 международных публикаций 
 ([Scholar](https://scholar.google.ru/citations?user=uzE__rYAAAAJ), 
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55062303000), 
 [Publons](https://publons.com/researcher/3778858/vladimir-ulyantsev/)) 

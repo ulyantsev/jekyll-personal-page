@@ -62,7 +62,7 @@ including the Presidential Physics and Mathematics Lyceum No. 239, Sirius educat
 He has also been contributing to the maintenance of the laboratory’s accounts on 
 [VK](https://vk.com/itmo.ctlab), [Instagram](https://www.instagram.com/itmo.ctlab/) and [Facebook](https://www.facebook.com/itmo.ctlab/) (all in Russian). 
 
-Vladimir Ulyantsev is the co-author of over 35 international publications 
+Vladimir Ulyantsev is the co-author of over 45 international publications 
 ([Scholar](https://scholar.google.ru/citations?user=uzE__rYAAAAJ), 
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55062303000), 
 [Publons](https://publons.com/researcher/3778858/vladimir-ulyantsev/)) 
