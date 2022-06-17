@@ -28,8 +28,10 @@ width="560" height="315" allow="autoplay; encrypted-media; fullscreen; picture-i
 </iframe>
 2019-08-27. Лекция «Биоинформатика: как геномные данные помогают изучать происхождение людей и механизмы развития заболеваний» в лектории Новой Голландии.
 
+<!-- something happen with this video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h6mYDjpZUt4" 
 title="YouTube video player" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 2018-09-15. Лекция «Генетические алгоритмы для поиска оптимальных структур».
+-->
