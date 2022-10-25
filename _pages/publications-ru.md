@@ -313,7 +313,7 @@ nav: false
       <a href = "{{ '/assets/papers-ru/2010-6-KISh-Komarov-Ulyantsev-Tsyplenkov.pdf' | relative_url }}">[pdf]</a>
 
   0.  Сатюков Р.В., Ульянцев В.И., Царев Ф.Н.
-      Олимпиадные задачи по информатике и программированию //
+      Олимпиадные задачи по информатике и программированию. Задача «Раскраска кубиков» //
       Компьютерные инструменты в школе, №5, 2009 г., с. 19-21 
       <a href = "{{ '/assets/papers-ru/2009-5-KISh-Satykov-Ulyantsev-Tsarev.pdf' | relative_url }}">[pdf]</a>
   
