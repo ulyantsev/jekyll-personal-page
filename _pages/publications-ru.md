@@ -187,14 +187,14 @@ nav: false
       Готовимся к олимпиадам по информатике. Задача «Починка забора» // 
       Компьютерные инструменты в школе. 2014. № 1, с. 22–25.
       <a href = "http://ipo.spb.ru/journal/index.php?article/1700/">[ipo.spb.ru]</a>
-      <a href = "{{ '/assets/papers-ru/KISh-2014-1.pdf' | relative_url }}">[pdf]</a>
+      <a href = "{{ '/assets/papers-ru/2014-1-KISh.pdf' | relative_url }}">[pdf]</a>
       <!--a href = "papers/2014/2014-1-KISh.docx">[docx]</a-->
 
   0.  Яковлева Д.В., Ульянцев В.И.
       Готовимся к олимпиадам по информатике. Задача «НОД И НОК» // 
       Компьютерные инструменты в школе. 2014. № 2, с. 30–33.
       <a href = "http://ipo.spb.ru/journal/index.php?article/1719/">[ipo.spb.ru]</a>
-      <a href = "{{ '/assets/papers-ru/KISh-2014-2.pdf' | relative_url }}">[pdf]</a>
+      <a href = "{{ '/assets/papers-ru/2014-2-KISh.pdf' | relative_url }}">[pdf]</a>
 
   0.  Комаров А.В., Кротков П.А., Кучеренко Д.С., Ульянцев В.И.
       Готовимся к олимпиадам по информатике. Задача «Телесъемка» // 
